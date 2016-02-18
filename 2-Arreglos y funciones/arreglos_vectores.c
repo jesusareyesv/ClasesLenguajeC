@@ -76,11 +76,12 @@ int main(){
   printf("Media de A = %.3f y Media de B = %.3f.\n",mediaA,mediaB);
   printf("Cantidad de pares en A = %d, Cantidad de impares B = %d.\n\n",contador_paresA,contador_imparesB);
 
-  printf("Ordenando A por burbuja y B por quicksort\n\n\n");
+  printf("Ordenando A y B por burbuja.\n\n\n");
 
   int aux;
+
   //Burbuja
-  int j,k;
+  int j;
   for(i = 1; i < tamano_v; i++){
     for(j = 0; j< tamano_v - 1; j++){
       if(a[j] > a[j+1]){
@@ -91,10 +92,17 @@ int main(){
     }
   }
 
-  //Quicksort
-  //qsort(b);
+  for(i = 1; i < tamano_v; i++){
+    for(j = 0; j< tamano_v - 1; j++){
+      if(b[j] < b[j+1]){
+        aux = b[j];
+        b[j] = b[j+1];
+        b[j+1] = aux;
+      }
+    }
+  }
 
-  printf("ORDENADOS:\nVector A\tVectorB");
+  printf("ORDENADOS:\nVector A\tVectorB\n\n");
 
   for(i = 0; i < tamano_v; i++)
     printf("%d\t%d\n",a[i],b[i]);

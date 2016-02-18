@@ -49,7 +49,7 @@ int main(){
     F = (int**) malloc(3*sizeof(int*));//Vector de punteros a vectores
 
     for(i = 0; i < 3; i++)
-      F[i] = (int*) malloc(3*sizeof(int));//vector individual de enteros dentro del vector de punteros
+      F[i] = (int*) malloc(3*sizeof(int));//vector individual de enteros dentro del vector de punteros a enteros
 
     if(E && F){
       printf("\n Arreglos dinámicos creados con éxito :D.\n");
@@ -73,11 +73,11 @@ int main(){
         printf("\n");
       }
 
-      free(E);
+      free(E);//cada vez que se crea un arreglo dinamico se debe liberar la memoria "manualmente"
       for(i = 0; i < 3; i++)
         free(F[i]);
       free(F);
-      
+
     }
 
 }
