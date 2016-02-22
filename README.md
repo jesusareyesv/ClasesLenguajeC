@@ -5,6 +5,6 @@ Cualquier consulta o duda sobre el repositorio puede hacerse al correo jarv1995@
 
 Si desea corregir el código o adaptarlo a sus necesidades el libre de hacerlo. si contiene errores o la explicación in-line no es clara puede modificar el archivo y hacer un pull request (se lo agaradecería).
 
-Si desea compartir algún ejemplo o ejercicio puede enviarme un mensaje al correo citado antes con el código o hacer fork y pull request.
+Si desea compartir algún ejemplo o ejercicio puede enviarme un mensaje al correo citado antes con el código o hacer fork y pull request (por favor envíe una cuenta de Github o una direccion de correo electrónico de contacto junto con su nombre o nickname para agregarlo tanto a los colaboradores como a los créditos del repositorio y a los pertinentes archivos).
 
 #Enjoy!

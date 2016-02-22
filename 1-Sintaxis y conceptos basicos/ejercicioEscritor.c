@@ -1,4 +1,9 @@
-/*Un escritor desea colocar a la venta, los ejemplares de su libro en dos formatos, el tradicional (Texto Impreso)
+/*
+
+Github: TemetNosce95
+2016
+
+Un escritor desea colocar a la venta, los ejemplares de su libro en dos formatos, el tradicional (Texto Impreso)
 
 cuyo precio es de Bs.F 75 y el digitalizado (CD) a Bs.F 45. El, desea experimentar las ventas online ( en línea
 

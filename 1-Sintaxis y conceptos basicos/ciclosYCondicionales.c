@@ -1,4 +1,7 @@
 /*
+
+Github: TemetNosce95
+2016
                           EJERCICIO
 El condominio de un edificio, ha planeado hacer una recolecta en cada uno de los
 pisos, aunque no se sabe hasta cual llegaran. En cada piso hay 5 apartamentos. En

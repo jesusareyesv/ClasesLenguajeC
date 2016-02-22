@@ -1,3 +1,8 @@
+/*
+Github: TemetNosce95
+2016
+*/
+
 #include <stdio.h> //Librería estandar de entrada y salida (I/O)
 #include <stdlib.h>
 

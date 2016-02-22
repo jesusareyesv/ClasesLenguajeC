@@ -1,3 +1,8 @@
+/*
+Github: TemetNosce95
+2016
+*/
+
 #include <stdlib.h>
 #include <stdio.h>
 //#include <curses.h>

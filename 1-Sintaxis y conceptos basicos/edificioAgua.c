@@ -1,4 +1,8 @@
-/*El condominio de un edificio de N pisos, necesita controlar el consumo de agua de
+/*
+Github: TemetNosce95
+2016
+
+El condominio de un edificio de N pisos, necesita controlar el consumo de agua de
 sus inquilinos. En cada piso hay varios apartamentos, y de seguro al menos uno está
 habitado. Para cada apartamento se debe dar lectura del consumo de agua en litros y
 del número de personas que lo habitan. El algoritmo a diseñar debe responder las

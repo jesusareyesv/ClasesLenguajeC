@@ -1,4 +1,8 @@
 /*
+
+Github: TemetNosce95
+2016
+
 En una planta de potabilizacion de agua se toman muestras del vital liquido para determinar su pureza de acuerdo a la cantidad de
 contaminantes presentes en ella. Las muestras de agua se dividen en cuatro clases según su uso:
 

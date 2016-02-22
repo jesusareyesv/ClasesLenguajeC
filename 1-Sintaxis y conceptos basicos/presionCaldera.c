@@ -1,4 +1,8 @@
 /*
+
+Github: TemetNosce95
+2016
+
 Un centro clínico de la ciudad, dispone de una caldera para producir, entre otras cosas, aire comprimido que es
 
 almacenado en un recipiente.
